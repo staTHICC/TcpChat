@@ -1,7 +1,6 @@
 C:\Users\Admin\source\repos\TcpChat\TcpChat_Server\bin\Debug\TcpChat_Server.exe.config
 C:\Users\Admin\source\repos\TcpChat\TcpChat_Server\bin\Debug\TcpChat_Server.exe
 C:\Users\Admin\source\repos\TcpChat\TcpChat_Server\bin\Debug\TcpChat_Server.pdb
-C:\Users\Admin\source\repos\TcpChat\TcpChat_Server\obj\Debug\TcpChat_Server.csprojAssemblyReference.cache
 C:\Users\Admin\source\repos\TcpChat\TcpChat_Server\obj\Debug\TcpChat_Server.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\TcpChat\TcpChat_Server\obj\Debug\TcpChat_Server.exe
 C:\Users\Admin\source\repos\TcpChat\TcpChat_Server\obj\Debug\TcpChat_Server.pdb
